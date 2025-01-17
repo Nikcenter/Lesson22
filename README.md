@@ -10,4 +10,7 @@ source venv/bin/activate
 pip install python-docx
 Отже бібліотека встановлено успішно.
 
-wget "https://public.docs.openprocurement.org/get/b479910f2d3c43cc86186f86f694d605?KeyID=52462340&Signature=Ny1vudcpgOGqpqdZqFtniV3rpoHI9sDY3J8vUFfKDZDOzIBZOzQypOBODQjfjtFYe2b5AKiQiE5f02FfAw0LAQ%3D%3D" -O poekt_dogovoru.doc
+ wget "https://public-docs.prozorro.gov.ua/get/089a4a0b57094be98c6fc940e1
+16b758?Signature=YeHzH59ZhgdmBIcJeY8ylowWbw2IHUDOQI9NeiheQDCP3M%2BOwsRlKhXel6m2RspShGj07TaZKqreO7JvLazkDg%3D%3D&KeyID=52462340" -O dogovir.docx
+
+
