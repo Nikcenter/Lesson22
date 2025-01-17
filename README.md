@@ -14,3 +14,4 @@ pip install python-docx
 16b758?Signature=YeHzH59ZhgdmBIcJeY8ylowWbw2IHUDOQI9NeiheQDCP3M%2BOwsRlKhXel6m2RspShGj07TaZKqreO7JvLazkDg%3D%3D&KeyID=52462340" -O dogovir.docx
 
 
+ wget https://nikcenter.org/wp-content/uploads/2025/01/odesski-lifti-info-scaled.jpg
